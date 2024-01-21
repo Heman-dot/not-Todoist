@@ -224,7 +224,7 @@ hr{
 }
 .features a:hover
 {
-    background-color:bisque;
+    background-color:rgb(212, 204, 204);
     padding: 5px;
     border-radius: 5px;
 }
