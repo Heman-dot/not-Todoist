@@ -9,6 +9,8 @@
 body
 {
     padding: 5px;
+    background: linear-gradient( #ffffff 80%,rgb(254, 240, 223));
+
 }
 nav{
     font-family: sans-serif;
