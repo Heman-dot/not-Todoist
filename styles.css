@@ -4,7 +4,6 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-    background-color: #ffffff;
 
 }
 body
@@ -171,6 +170,7 @@ nav a:hover {
     margin-top: -50px;
     text-align: center;
     margin-bottom: 80px;
+
 }
 .bottom-div
 {
@@ -235,4 +235,26 @@ hr{
 {
     height: 3.5vh;
     margin-bottom: 10px;
+}
+footer
+{
+    margin-left: 8%;
+}
+footer a
+{
+    color: gray;
+    font-size: 14px;
+}
+.doist
+{
+   margin-top: -18px;
+   color: gray;
+   font-size: 14px;
+}
+.lang
+{
+    margin-left: 62%;
+    position: relative;
+    font-family: Arial;
+
 }
